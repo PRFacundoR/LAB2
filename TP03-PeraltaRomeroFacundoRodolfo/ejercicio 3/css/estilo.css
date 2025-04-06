@@ -1,0 +1,27 @@
+
+        header {
+            background-color: #f8f9fa; /* Fondo claro */
+            padding: 20px;
+        }
+        .table-header {
+            background-color: #343a40; /* Negro para el thead */
+            color: #fff; /* Texto blanco */
+        }
+        .game-image {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        .game-price {
+            margin-top: 5px;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }

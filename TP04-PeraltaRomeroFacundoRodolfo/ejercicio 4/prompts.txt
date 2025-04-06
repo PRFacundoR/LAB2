@@ -1,0 +1,4 @@
+Realice un formulario de inicio de sesión
+que sea con etiquetas, boostrap 
+sin divs
+y el method que sea post y se envie a inicioS.php

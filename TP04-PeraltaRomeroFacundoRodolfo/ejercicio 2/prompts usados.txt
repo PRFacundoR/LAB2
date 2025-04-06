@@ -1,0 +1,6 @@
+Hola, ¿Como estas?
+actua como un programador experto en html, sin css ni Div.
+Necesito que me diseñes una pagina que tenga las siguientes especificaciones:
+la misma tendria un formulario en el que se debe ingresar la cantidad de horas trabajadas, si se cubrio el turno matutino o nocturno, y los dias de 
+la semana trabajados
+que la cantidad de horas trabajadas tenga un rango de 0 a 12 horas

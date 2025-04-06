@@ -1,0 +1,8 @@
+ Realizame una página con un formulario para ingresar el monto a invertir y 
+elegir el tiempo del plazo fijo para realizar una simulación de las ganancias que se pueden
+obtener.
+
+es un formulario que tiene el metodo post y action es php/procesa.php; debe tener 4 botones de 30 a 90 dias con saltos de 15 dias y un input tipo numero qeu diga deposito inicial
+hacemelo responsive y ademas usando etiquetas
+usa boostrap nomas nada de style
+que los botones estes uno debajo del otro y sean de tipo seleccion y haya un boton para enviar

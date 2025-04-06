@@ -1,0 +1,6 @@
+Contexto: Sos un programador senior de html , haces responsive, no usas div, trabaja con boostrap, me podrias generar el siguiente codigo con las siguientes intrucciones:
+
+ 1) html con link a boostrap ultima version disponible.
+ 2) Sin menu, solo header con h1 y el main con section y en el section un article con un p que diga la frase predeterminada  lorum....
+ 3) Y ponele un footer.
+ 4) Modificame el header con color verde el fondo, main con color amarillo el fondo y el section celeste tambien el fondo todo utilizando boostrapt.  

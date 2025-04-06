@@ -1,0 +1,37 @@
+contexto:
+chat gpt ponete en el papel de que sos un programador experto en el uso de clases de boostrap v 5.33, css y al usar html no usas ni div, usas section article, haces responsive, y sos buen diseñador grafico; ahora te voy a dar unas tareas:
+
+
+
+ejercicio 1
+
+
+1) html con link a boostrap ultima version disponible.
+ 2) Sin menu, solo header con h1 y el main con section y en el section un article con un p que diga la frase predeterminada  lorum....
+ 3) Y ponele un footer.
+ 4) Modificame el header con color verde el fondo, main con color amarillo el fondo y el section celeste tambien el fondo todo utilizando boostrapt.  
+
+ejercicio 2
+
+el main sea de un color  complementario al amarillo
+que haya dos section uno a la par del otro, en el de la izquierfa va a decir con un h2 , mi carton y el de la derecha sorteo y la cantidad de aciertos
+haceme un footer con el nombre facundo rodolfo peralta romero
+
+espera que te pase mi php asi lo combinas
+usa clases boostrap
+
+
+
+ejercicio 3
+
+Quiero que en el header haya un logo, usa figure e img, luego el medio se divide en el main y en el aside, el main esta a la derecha que es una tabla que tiene caption y titulo hot sale, encebrada con el thead en negro y letras blancas, en la tabla hay 3 columnas una es de los juegos, la otra de la cantidad vendida y la ultima columna muestra lo recaudado por juego luego debajo de la tabla figura la recaudacion total
+
+ahora el aside esta a la izquierda del main, el aside tiene la imagen de cada juego y debajo de cada juego aparece su precio con su nombre
+usame boostrap
+
+
+
+ejercicio 4
+
+quiero que uses clases de tabla de Bootstrap, además, deberá aplicar CSS personalizado para sacarle el padding a los td
+y hace un linda barra de puntuacion

@@ -1,0 +1,14 @@
+table td {
+    padding: 0;
+ }
+.score-bar {
+margin-top: 20px;
+padding: 10px;
+border-radius: 5px;
+background-color: #f8f9fa;
+border: 1px solid #dee2e6;
+}
+
+.score-bar span {
+font-weight: bold;
+}
